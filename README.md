@@ -1,3 +1,3 @@
-Hello! I am @emmettbreen, a sophomore at Cornell University majoring in computer science!
+Hello! I am @emmettbreen, a sophomore at Cornell University studying engineering and computer science
 
-Welcome to a collection of some of my favorite projects
+Welcome to my collection of favorite projects!
